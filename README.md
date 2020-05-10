@@ -1,6 +1,8 @@
 # Data analysis on a Retail Data
 This one of my first data analysis project. I enjoyed finding important information using a retail company's data. 
 
+https://docs.google.com/document/d/17Dl9qsNs_JkXX8AD1lhk-tFCqg0vLzxjFe-FBHQ_bFw/edit
+
 unique order numbers 307
 unique status:  6
 Number of countries:  19
