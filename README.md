@@ -1,6 +1,9 @@
 # Data analysis on a Retail Data
 Please read this page as a report of my data analysis.
 
+#### Data
+
+https://www.kaggle.com/kyanyoga/sample-sales-data#sales_data_sample.csv
 
 
 #### General info
