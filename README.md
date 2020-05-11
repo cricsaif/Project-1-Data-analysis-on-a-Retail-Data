@@ -1,8 +1,9 @@
 # Data analysis on a Retail Data
-Please read this page as a report of my data analysis
+Please read this page as a report of my data analysis.
 
 
-general info
+
+General info
 
 
 ![image](https://user-images.githubusercontent.com/64741840/81582311-cd375b00-93a7-11ea-9f1a-941327289b89.png)
@@ -10,18 +11,18 @@ general info
 
 
 
-most sales
+Most sales
 
 
 ![image](https://user-images.githubusercontent.com/64741840/81580361-41243400-93a5-11ea-8e7a-bbaa6971d9f9.png)
 
 
-most companies
+Most companies by country 
 
 
 ![image](https://user-images.githubusercontent.com/64741840/81580413-50a37d00-93a5-11ea-8917-1b63f7975745.png)
 
-# USA 
+## USA 
 we can conclude that most customers are located in the USA and the most sales genarated was also in USA. We can. therefore, perform an analysis on USA.
 
 
@@ -29,7 +30,7 @@ we can conclude that most customers are located in the USA and the most sales ge
 ![image](https://user-images.githubusercontent.com/64741840/81582486-066fcb00-93a8-11ea-8370-0986d95afe2f.png)
 
 
-qtr
+By Quarter
 
 ![image](https://user-images.githubusercontent.com/64741840/81582866-72eaca00-93a8-11ea-8413-f7f324faa790.png)
 
@@ -41,7 +42,7 @@ Most sales were recorded in quarter 4 as it produced double the sales compared t
 
 
 
-month
+By Month
 
 
 ![image](https://user-images.githubusercontent.com/64741840/81580528-7892e080-93a5-11ea-9079-6c865dbb3065.png)
@@ -52,7 +53,7 @@ MSRP
 
 MSRP means manufacturer's suggested retail price. For example, the MSRP price for a product may be £50 but a company may sell it for £45. Our total PRICEEACH was 84159.65 and MSRP was 101539. The difference shows that by not reccomending the manufacturer's price the company has lost 17379 and that's only in USA.
 
-dealsize
+Dealsize
 
 
 ![image](https://user-images.githubusercontent.com/64741840/81581180-4df55780-93a6-11ea-80be-e6dff6434b75.png)
@@ -61,4 +62,6 @@ dealsize
 
 The pie chart tells us that medium deal size made almost a third of the sales.
 
+
+Any feedback will be apreciated. Thank you for reading! 
 
