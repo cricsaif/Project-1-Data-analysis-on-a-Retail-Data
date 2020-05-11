@@ -17,14 +17,26 @@ most sales
 
 
 ![image](https://user-images.githubusercontent.com/64741840/81580361-41243400-93a5-11ea-8e7a-bbaa6971d9f9.png)
-ddd
+
 
 most companies
+
+
 ![image](https://user-images.githubusercontent.com/64741840/81580413-50a37d00-93a5-11ea-8917-1b63f7975745.png)
+
+qtr
+
 
 ![image](https://user-images.githubusercontent.com/64741840/81580477-6749d400-93a5-11ea-946d-7b1737e40e41.png)
 
+
+month
+
+
 ![image](https://user-images.githubusercontent.com/64741840/81580528-7892e080-93a5-11ea-9079-6c865dbb3065.png)
+
+
+dealsize
 
 
 ![image](https://user-images.githubusercontent.com/64741840/81581180-4df55780-93a6-11ea-80be-e6dff6434b75.png)
