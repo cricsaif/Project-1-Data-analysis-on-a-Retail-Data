@@ -2,15 +2,12 @@
 Please read this page as a report of my data analysis
 
 
+general info
 
 
-unique order numbers 307
-unique status:  6
-Number of countries:  19
-Unique addresses:  92
-Unique COUNTRY:  19
-Unique city:  73
-Unique DEALSIZE:  3
+![image](https://user-images.githubusercontent.com/64741840/81582311-cd375b00-93a7-11ea-9f1a-941327289b89.png)
+
+
 
 
 most sales
@@ -23,6 +20,14 @@ most companies
 
 
 ![image](https://user-images.githubusercontent.com/64741840/81580413-50a37d00-93a5-11ea-8917-1b63f7975745.png)
+
+
+usa general
+
+
+
+![image](https://user-images.githubusercontent.com/64741840/81582486-066fcb00-93a8-11ea-8370-0986d95afe2f.png)
+
 
 qtr
 
