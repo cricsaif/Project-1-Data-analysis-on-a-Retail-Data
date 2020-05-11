@@ -14,7 +14,10 @@ Unique DEALSIZE:  3
 
 
 most sales
+
+
 ![image](https://user-images.githubusercontent.com/64741840/81580361-41243400-93a5-11ea-8e7a-bbaa6971d9f9.png)
+ddd
 
 most companies
 ![image](https://user-images.githubusercontent.com/64741840/81580413-50a37d00-93a5-11ea-8917-1b63f7975745.png)
