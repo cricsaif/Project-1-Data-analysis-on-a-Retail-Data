@@ -1,5 +1,5 @@
 # Data analysis on a Retail Data
-Please read this page as a report of my data analysis.
+
 
 #### Data
 
@@ -43,15 +43,6 @@ we can conclude that most customers are located in the USA and the most sales ge
 
 Most sales were recorded in quarter 4 as it produced double the sales compared to other quarters.
 
-
-
-#### By Month
-
-
-![image](https://user-images.githubusercontent.com/64741840/81580528-7892e080-93a5-11ea-9079-6c865dbb3065.png)
-
-
-
 #### MSRP
 
 MSRP means manufacturer's suggested retail price. For example, the MSRP price for a product may be £50 but a company may sell it for £45. Our total PRICEEACH was 84159.65 and MSRP was 101539. The difference shows that by not reccomending the manufacturer's price the company has lost 17379 and that's only in USA.
@@ -64,6 +55,33 @@ MSRP means manufacturer's suggested retail price. For example, the MSRP price fo
 ![image](https://user-images.githubusercontent.com/64741840/81580581-86486600-93a5-11ea-867e-bf9f96894d37.png)
 
 The pie chart tells us that medium deal size made almost a third of the sales.
+
+
+
+#### By Month
+
+
+![image](https://user-images.githubusercontent.com/64741840/81580528-7892e080-93a5-11ea-9079-6c865dbb3065.png)
+
+2003
+
+![image](https://user-images.githubusercontent.com/64741840/81987648-f408c200-9631-11ea-9213-789edf18386c.png)
+
+2004
+
+![image](https://user-images.githubusercontent.com/64741840/81987690-0f73cd00-9632-11ea-8eb2-2fb145227d14.png)
+
+
+2005
+
+![image](https://user-images.githubusercontent.com/64741840/81987708-1a2e6200-9632-11ea-9da8-db59f84c31bb.png)
+
+![image](https://user-images.githubusercontent.com/64741840/81987763-3a5e2100-9632-11ea-860d-e94e39583bea.png)
+
+
+## Conclusion 
+
+
 
 
 ### Any feedback will be apreciated. Thank you for reading! 
