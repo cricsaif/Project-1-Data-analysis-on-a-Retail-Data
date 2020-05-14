@@ -1,4 +1,21 @@
 # Data analysis on a Retail Data
+This report contains data analysis about a automotive company called X that sells from cars, buses to trains. The customers are companies such as 'Mini Wheels Co' and 'Land of Toys Inc'. You may look at the data with link provided below. Using Python and Jupyter Notebook I have been able to provide general analysis  and then continoued with depper analysis on USA.
+
+The overall pattern of total sales by month' for 2003 and 2004 is quite similar, while with limited data from 2005 shows that there are significanlty higher total sales among the first 5 months compared to the previous 2 years (only first 5 months data available for 2005).
+
+40 percent of the total sales comes from 4th quarter. Therefore, we have conducted a deeper analysis on October, Novemeber and December for 2003 and 2004. The following table shows which departments sold the most. According to the table, cars are sold the most amongst those months, sales totalling $883,928. Addionnally, strangely first month of quarter four made the least sales.
+
+
+There are could be a number of reasons for the big increase in toal sales for quarter 4. 
+the company x may give discount in cars duing every last quarter, could be people can afford more during those times.
+The reason for this could be that
+
+
+company X should sit down with its customers and find why there is a patter in some months amking more sales than others or perhaps comany X knows the answer.
+
+grammerly
+
+
 
 
 #### Data
