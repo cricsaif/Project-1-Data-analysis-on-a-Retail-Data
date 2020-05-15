@@ -95,15 +95,15 @@ Company X may also find why a specific product is bought more often in November 
 
 
 
-###### Online Diecast Creations Co. (Customer)
+##### Online Diecast Creations Co. (Customer)
 
 ![image](https://user-images.githubusercontent.com/64741840/82073073-9c6d6380-96d0-11ea-92a8-70d4ae9520bd.png)
 
-###### Mini Gifts Distributors Ltd.  (Customer)
+##### Mini Gifts Distributors Ltd.  (Customer)
 
 ![image](https://user-images.githubusercontent.com/64741840/82073150-bdce4f80-96d0-11ea-84b9-fd7d6cc2e661.png)
 
-###### Classic cars in 2003
+##### Classic cars in 2003
 
 ![image](https://user-images.githubusercontent.com/64741840/82074924-61206400-96d3-11ea-9934-86fe6dcc8b15.png)
 
