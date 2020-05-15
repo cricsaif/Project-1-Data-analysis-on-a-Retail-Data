@@ -1,23 +1,6 @@
 # Data analysis on a Retail Data
+
 This report contains data analysis about an automotive company called X that sells from cars, buses to trains. The customers are companies such as 'Mini Wheels Co' and 'Land of Toys Inc'. You may look at the data with the link provided below. Using Python and Jupyter Notebook I have been able to provide general analysis and then continued with a deeper analysis of the USA.
-
-The overall pattern of total sales by month' for 2003, 2004 2005 is quite similar, for instance, the total sales are highest on all the Novembers. Please note that limited data is provided for the year 2005 having only 5 months of data.
-
-40 percent of the total sales come from the 4th quarter in the USA. Therefore, we have conducted a deeper analysis on October, November, and December for 2003 and 2004, and leaving out September has it has the least sales among the 12 months as we wanted to look at the consecutive months with the highest sales. The following table shows which departments sold the most. According to the table, cars are sold the most, sales totalling $883,928. Looking more closely in November due to being the month with the highest turnover. The month also sells cars the most.
-
-
-There could be several reasons for the big increase in sales for quarter 4 based on our assumptions. 
-Few assumptions are: our company X may give a big discount on cars during last quarter, and
-could be companies(customers) who can afford to buy purchase more during those times.
-
-find if same company buys every november?
-
-It would be worth it for company X to sit down with its customers and find why there is a pattern in some months making more sales than others so that better business decisions can be made. Perhaps company X knows the answer.
-
-grammerly
-
-
-
 
 #### Data
 
@@ -99,8 +82,31 @@ The pie chart tells us that medium deal size made almost a third of the sales.
 
 ## Conclusion 
 
+The overall pattern of total sales by month' for 2003, 2004 2005 is quite similar, for instance, the total sales are highest on all the Novembers. Please note that limited data is provided for the year 2005 having only 5 months of data.
+
+40 percent of the total sales come from the 4th quarter in the USA. Therefore, we have conducted a deeper analysis in October, November, and December for 2003 and 2004, and leaving out September has it has the least sales among the 12 months as we wanted to look at the consecutive months with the highest sales. The following table shows which departments sold the most. According to the table, cars are sold the most, sales totalling $883,928. Looking more closely in November due to being the month with the highest turnover. The month also sells cars the most.
 
 
+There could be several reasons for the big increase in sales for quarter 4 based on our assumptions. 
+First assumption some companies(customers) can afford to buy purchase more during those times. for instance, from our data, we found customers like 'Online Diecast Creations Co.'    buys a huge quantity on every November only. While companies like 'Mini Gifts Distributors Ltd.' buy more frequently throughout the year. How often each customer purchases throughout the year 2003.
+
+Company X may also find why a specific product is bought more often in November than other months. Below a table is shown how often Classic cars are sold throughout 2003.
+
+
+ Online Diecast Creations Co. (Customer)
+
+![image](https://user-images.githubusercontent.com/64741840/82073073-9c6d6380-96d0-11ea-92a8-70d4ae9520bd.png)
+
+Mini Gifts Distributors Ltd.  (Customer)
+
+![image](https://user-images.githubusercontent.com/64741840/82073150-bdce4f80-96d0-11ea-84b9-fd7d6cc2e661.png)
+
+Classic cars in 2003
+
+![image](https://user-images.githubusercontent.com/64741840/82074924-61206400-96d3-11ea-9934-86fe6dcc8b15.png)
+
+
+It would be worthwhile for company X to sit down with its customers and find why there are more sales on some months while fewer sales on other months every year. Understanding customer behaviour will lead to making better business decisions. Perhaps company X knows the answer.
 
 ### Any feedback will be apreciated. Thank you for reading! 
 
