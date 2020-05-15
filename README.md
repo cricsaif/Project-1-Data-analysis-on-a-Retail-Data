@@ -1,17 +1,18 @@
 # Data analysis on a Retail Data
-This report contains data analysis about a automotive company called X that sells from cars, buses to trains. The customers are companies such as 'Mini Wheels Co' and 'Land of Toys Inc'. You may look at the data with link provided below. Using Python and Jupyter Notebook I have been able to provide general analysis  and then continoued with depper analysis on USA.
+This report contains data analysis about an automotive company called X that sells from cars, buses to trains. The customers are companies such as 'Mini Wheels Co' and 'Land of Toys Inc'. You may look at the data with the link provided below. Using Python and Jupyter Notebook I have been able to provide general analysis and then continued with a deeper analysis of the USA.
 
-The overall pattern of total sales by month' for 2003 and 2004 is quite similar, while with limited data from 2005 shows that there are significanlty higher total sales among the first 5 months compared to the previous 2 years (only first 5 months data available for 2005).
+The overall pattern of total sales by month' for 2003, 2004 2005 is quite similar, for instance, the total sales are highest on all the Novembers. Please note that limited data is provided for the year 2005 having only 5 months of data.
 
-40 percent of the total sales comes from 4th quarter. Therefore, we have conducted a deeper analysis on October, Novemeber and December for 2003 and 2004. The following table shows which departments sold the most. According to the table, cars are sold the most amongst those months, sales totalling $883,928. Addionnally, strangely first month of quarter four made the least sales.
-
-
-There are could be a number of reasons for the big increase in toal sales for quarter 4. 
-the company x may give discount in cars duing every last quarter, could be people can afford more during those times.
-The reason for this could be that
+40 percent of the total sales come from the 4th quarter in the USA. Therefore, we have conducted a deeper analysis on October, November, and December for 2003 and 2004, and leaving out September has it has the least sales among the 12 months as we wanted to look at the consecutive months with the highest sales. The following table shows which departments sold the most. According to the table, cars are sold the most, sales totalling $883,928. Looking more closely in November due to being the month with the highest turnover. The month also sells cars the most.
 
 
-company X should sit down with its customers and find why there is a patter in some months amking more sales than others or perhaps comany X knows the answer.
+There could be several reasons for the big increase in sales for quarter 4 based on our assumptions. 
+Few assumptions are: our company X may give a big discount on cars during last quarter, and
+could be companies(customers) who can afford to buy purchase more during those times.
+
+find if same company buys every november?
+
+It would be worth it for company X to sit down with its customers and find why there is a pattern in some months making more sales than others so that better business decisions can be made. Perhaps company X knows the answer.
 
 grammerly
 
