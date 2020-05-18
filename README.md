@@ -7,6 +7,10 @@ This report contains data analysis about an automotive company called X that sel
 https://www.kaggle.com/kyanyoga/sample-sales-data#sales_data_sample.csv
 
 
+#### Data manipulation and analysis using Python on Jupyter Notebook
+
+https://github.com/cricsaif/Simple-project-on-retail-data/blob/master/project%20retail.ipynb
+
 #### General info
 
 
