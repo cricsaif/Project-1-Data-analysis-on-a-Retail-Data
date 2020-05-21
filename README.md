@@ -114,5 +114,4 @@ Company X may also find why a specific product is bought more often in November 
 
 It would be worthwhile for company X to sit down with its customers and find why there are more sales on some months while fewer sales on other months every year. Understanding customer behaviour will lead to making better business decisions.
 
-### Any feedback will be apreciated. Thank you for reading! 
 
