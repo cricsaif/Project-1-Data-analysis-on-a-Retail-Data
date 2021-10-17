@@ -88,7 +88,7 @@ The pie chart tells us that medium deal size made almost a third of the sales.
 
 The overall pattern of total sales by month' for 2003, 2004 2005 is quite similar, for instance, the total sales are highest on all the Novembers. Please note that limited data is provided for the year 2005 having only 5 months of data.
 
-40 percent of the total sales come from the 4th quarter in the USA. Therefore, we have conducted a deeper analysis in October, November, and December for 2003 and 2004, and leaving out September has it has the least sales among the 12 months as we wanted to look at the consecutive months with the highest sales. The following table shows which departments sold the most. According to the table, cars are sold the most, sales totalling $883,928. Looking more closely in November due to being the month with the highest turnover. The month also sells cars the most.
+40 percent of the total sales come from the 4th quarter in the USA. Therefore, we have conducted a deeper analysis in October, November, and December for 2003 and 2004, and leaving out September as it has the least sales among the 12 months as we wanted to look at the consecutive months with the highest sales. The following table shows which departments sold the most. According to the table, cars are sold the most, sales totalling $883,928. Looking more closely in November due to being the month with the highest turnover. The month also sells cars the most.
 
 
 There could be several reasons for the big increase in sales for quarter 4 based on our assumptions. 
